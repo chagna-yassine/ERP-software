@@ -28,3 +28,10 @@ The software is also secure, with robust authentication and authorization mechan
 In conclusion, the ERP software is a powerful tool that enables businesses to manage their operations effectively. 
 With its comprehensive features and customizable options, the software provides businesses with the tools they need 
 to streamline their processes, improve their efficiency, and increase their profitability.
+![erp-menu](https://user-images.githubusercontent.com/109078003/222728966-dad1d135-e4a5-415d-8eed-17d7959938da.PNG)
+![erp-dark](https://user-images.githubusercontent.com/109078003/222728951-2b2b85a5-edb3-4100-9876-501ab74e9507.PNG)
+![erp-facture](https://user-images.githubusercontent.com/109078003/222728959-9ccd2fb2-3f15-413d-b819-86f1d6137607.PNG)
+![erp-Hfacture](https://user-images.githubusercontent.com/109078003/222728964-31308829-bba2-4bd4-98ef-54f481ba6e02.PNG)
+![erp-recherche](https://user-images.githubusercontent.com/109078003/222728970-c11e5857-3c80-46ef-8354-c0d188f5ca54.PNG)
+![erp-stock](https://user-images.githubusercontent.com/109078003/222728976-a956c5bf-f88f-42cc-a496-3dba94f2f991.PNG)
+![erp-client](https://user-images.githubusercontent.com/109078003/222728980-0b4c60fb-039a-4af4-831d-62d97de369a0.PNG)
